@@ -447,6 +447,16 @@ span, a, a:hover {
   padding: 40px 100px; }
   .paragraph-text .bold {
     font-weight: 600; }
+@media screen and (max-width: 767px) {
+  .paragraph-text {
+    padding: 25px 35px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .paragraph-text {
+    padding: 30px 45px;
+  }
+}
 
 .hero .extra-text {
   font-weight: 200;
