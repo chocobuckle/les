@@ -1,0 +1,52 @@
+/**
+ * styles.scss
+ * ---
+ * Main `sass` file. Import here `sass` files
+ */
+
+@import "main/style";
+
+// Modules
+@import "modules/variables";
+@import "modules/mixins";
+@import "modules/fonts";
+
+// Partials
+@import "partials/reset";
+@import "partials/wordpress";
+@import "partials/utils";
+@import "partials/wrapper";
+@import "partials/header";
+@import "partials/nav";
+@import "partials/sidebar";
+@import "partials/footer";
+@import "partials/print";
+
+/* == bootstrap == */
+@import "plugins/bootstrap.min";
+
+/* == animate Headline == */
+@import "plugins/animate.min";
+
+/* == et-line icon font == */
+@import "plugins/et-line";
+
+/* == icofont icon font == */
+@import "plugins/icofont";
+
+/* == fontawesome icon font == */
+@import "plugins/fontawesome-all.min";
+
+/* == YouTubePopUp == */
+@import "plugins/YouTubePopUp";
+
+/* == magnific-popup == */
+@import "plugins/magnific-popup";
+
+/* == owl.carousel == */
+@import "plugins/owl.carousel.min";
+
+@import "plugins/owl.theme.default.min";
+
+/* == helper classes == */
+@import "plugins/helper";

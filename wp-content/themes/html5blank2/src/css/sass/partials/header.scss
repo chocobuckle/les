@@ -1,0 +1,28 @@
+/**
+ * partials/header
+ * ---
+ */
+
+
+// Header container
+.header {
+
+}
+
+.logo-img {}
+
+.header video {
+    min-width: 100%; 
+    min-height: 100%;
+    position: absolute;
+    height: auto;
+    z-index: -10;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+header {
+    overflow: hidden;
+}
