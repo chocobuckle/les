@@ -464,12 +464,13 @@ span, a, a:hover {
   width: 100%;
 }
 
-.hero .extra-text {
+.hero-h2 {
   font-weight: 200;
   margin-bottom: 25px; }
-  .hero .extra-text span {
+  .hero-h3 {
     font-weight: 700;
-    color: #312884; }
+    color: #312884;
+    margin-bottom: 25px; }
 
 .hero .item {
   background: #fff;
