@@ -155,9 +155,8 @@
                 const y = i;
                 $( "#tab-" + i ).click(function() {
                     var backgroundImage = $("#image_" + y).html();
-                    console.log(backgroundImage);
                     $("#Services").css({"background-image": "url('" + backgroundImage + "')"});
-                    console.log('clicked on tab-' + y);
+                    // console.log('clicked on tab-' + y);
                 });
             }
         };
