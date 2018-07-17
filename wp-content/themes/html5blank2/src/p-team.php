@@ -1,7 +1,7 @@
 
          <!-- =====================================
         ==== Start Team -->
-        <section class="team" id="OurPeople" data-scroll-index="1">
+        <section class="team" id="OurPeople" style="padding-top: 100px;" data-scroll-index="1">
             <div class="container" style="width: 60%">
                 <div class="row">
 

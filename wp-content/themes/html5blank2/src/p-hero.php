@@ -15,7 +15,7 @@
                       </div>
                     </div>
                     <div class="doorstep-image" >
-                      <div class="container" style="padding-top: 100px;">
+                      <div class="container">
                         <?php get_template_part( 'p-team' ) ?>
                       </div>
                     </div>
