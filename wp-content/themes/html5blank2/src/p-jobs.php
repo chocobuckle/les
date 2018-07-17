@@ -3,7 +3,7 @@
 
 
 
-        
+
     	<section class="blog section-padding" id="CurrentOpportunities" data-scroll-index="4">
             <div class="container">
                 <div class="row">
@@ -22,7 +22,7 @@
 
                                             while ( have_rows('jobs', 'options') ) : the_row(); ?>
 
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-12" style="margin-bottom: 3em;">
                                                 <div class="item text-center mb-md50">
                                                 <a href="<?php the_sub_field('file'); ?>" target="_blank">
                                                     <div class="post-img">

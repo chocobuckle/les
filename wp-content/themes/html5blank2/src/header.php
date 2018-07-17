@@ -45,8 +45,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800" rel="stylesheet">
 
-				
-	
+
+
 		<?php wp_head(); ?>
 		<script>
 		// conditionizr.com
@@ -69,11 +69,11 @@
     			<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
     		</div>
     	</div>
-        
+
     	<!-- End Loading ====
     	======================================= -->
 
-       
+
     	<!-- =====================================
     	==== Start Navbar -->
 
@@ -82,9 +82,9 @@
 
             <!-- Logo -->
             <a class="logo" href="#">
-                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="logo">          
+                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/img/logo.svg" alt="logo">
 			</a>
-			
+
 
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			    <span class="icon-bar"><i class="fas fa-bars"></i></span>
@@ -92,7 +92,7 @@
 
 			  <!-- navbar links -->
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-				
+
 				<?php html5blank_nav(); ?>
 			    <!-- <ul class="navbar-nav ml-auto">
 			      <li class="nav-item">
@@ -123,9 +123,9 @@
 
     	<!-- End Navbar ====
 			======================================= -->
-			
+
 			<script>
-			
+
 			$( document ).ready(function() {
 				$('.navbar-nav li a').addClass('nav-link');
 				$( ".navbar-nav li a:contains('Home')" ).addClass( "active");
@@ -172,5 +172,5 @@
 				})
 
 			});
-			
+
 			</script>
