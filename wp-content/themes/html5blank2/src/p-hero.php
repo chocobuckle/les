@@ -5,7 +5,7 @@
         <section class="hero section-padding pb-0" style="padding-top: 0;">
                 <div class="row">
                     <div class="city-image">
-                      <div class="container">
+                      <div class="container" style="width: 72.5%;">
                         <div class="col-sm-12 text-center mb-80">
                             <h2 class="hero-h2">Welcome To</h2>
                             <h3 class="hero-h3">Lansdowne Executive Search</h3>
@@ -13,12 +13,12 @@
                         </div>
                       </div>
                     </div>
-                    <div class="container" style="padding-top: 100px;">
-                      <?php get_template_part( 'p-team' ) ?>
+                    <div class="doorstep-image" >
+                      <div class="container" style="padding-top: 100px;">
+                        <?php get_template_part( 'p-team' ) ?>
+                      </div>
                     </div>
-
                 </div>
-
             </div>
         </section>
 

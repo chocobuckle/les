@@ -429,7 +429,7 @@ span, a, a:hover {
   z-index: 1; }
 
   .slider-background {
-    background: rgba(46,43,125, 0.75);
+    background: rgba(46,43,125, 0.25);
     width: 82.5%;
     margin: 0 auto;
     padding: 1.75em; }
@@ -443,7 +443,7 @@ span, a, a:hover {
      [ 04 Start Hero ]
 -----------------------------------------------------------------*/
 .paragraph-text {
-  background-color: #eee;
+  /* background-color: #eee; */
   padding: 40px 100px; }
   .paragraph-text .bold {
     font-weight: 600; }
@@ -462,6 +462,17 @@ span, a, a:hover {
   background : url("/lansdowne/wp-content/themes/html5blank2/images/city.jpg") left center / cover no-repeat;
   padding-top: 100px;
   width: 100%;
+}
+
+.doorstep-image {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/doorstep.jpg") left center / cover no-repeat;
+  width: 100%;
+}
+
+.doorstep-image-purple {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/doorstep-purple.jpg") left center / cover no-repeat;
+  width: 100%;
+  padding-top: 100px;
 }
 
 .hero-h2 {
