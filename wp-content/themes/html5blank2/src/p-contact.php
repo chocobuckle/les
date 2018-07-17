@@ -1,12 +1,12 @@
-<?php         
-    $footer = get_field('footer', 'options');	
-    if( $footer ): 
+<?php
+    $footer = get_field('footer', 'options');
+    if( $footer ):
             $phone_number = $footer['phone_number'];
             $email = $footer['email'];
             $address = $footer['address']; ?>
         </div>
-    <?php endif; 
-?>  
+    <?php endif;
+?>
     <!-- =====================================
         ==== Start Contact -->
         <section class="contact" data-scroll-index="5" id="ContactUs">
@@ -43,7 +43,7 @@
 
                         </div>
                     </div>
-                    <div class="col-lg-6 contact-form">
+                    <div class="col-lg-6 contact-form group-shot-image">
                         <div class="form" id="contact-form">
 
                             <div class="messages"></div>
@@ -93,7 +93,7 @@
                                         <button type="submit"><span>Send Message</span></button>
                                     </div>
 */ ?>
-                                </div>                             
+                                </div>
                             </div>
     </div>
                     </div>
@@ -102,10 +102,10 @@
         </section>
         <!-- End Contact ====
         ======================================= -->
-        
+
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHAodSH1YNrC5tgqSxdPp3K3Ka891YRHo&callback=initMap" async defer></script>
         <script>
-        
+
         initMap();
 
         </script>

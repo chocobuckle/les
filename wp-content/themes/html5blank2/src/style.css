@@ -474,6 +474,10 @@ span, a, a:hover {
   padding-top: 100px;
 }
 
+.group-shot-image {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/group-shot.jpg") left center / cover no-repeat;
+}
+
 .hero-h2 {
   font-weight: 200;
   margin-bottom: 25px; }
