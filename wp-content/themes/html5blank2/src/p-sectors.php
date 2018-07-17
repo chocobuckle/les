@@ -18,28 +18,28 @@
                         </h4>
                         <p style="color: #fff; text-align: center; margin-bottom: 3em;">Lansdowne Executive Search delivers a range of Executive Search and Interim Management
 solutions, in addition to tailored Executive Coaching and Organisational Consulting services.</p>
-<div class="sectors-list-wrapper">
-  <ul class="sectors-list">
-    <li class="sectors-list-item">Transport, Aviation & Marine</li>
-    <li class="sectors-list-item">Construction & Materials</li>
-    <li class="sectors-list-item">Leisure & Gaming</li>
-    <li class="sectors-list-item">Energy, Utilities & Natural Resources</li>
-    <li class="sectors-list-item">Technology</li>
-    <li class="sectors-list-item">Media & Telecoms</li>
-    <li class="sectors-list-item">Life Science</li>
-    <li class="sectors-list-item" style="margin-bottom: 0">Agri Business</li>
-  </ul>
-  <ul class="sectors-list" style="border-left: 1px solid #fff;">
-    <li class="sectors-list-item">Food & Drinks</li>
-    <li class="sectors-list-item">Retail & FMCG</li>
-    <li class="sectors-list-item">Banking & Financial Services</li>
-    <li class="sectors-list-item">Professional Sevices& Legal</li>
-    <li class="sectors-list-item">Finance & Accounting</li>
-    <li class="sectors-list-item">Public Sector</li>
-    <li class="sectors-list-item">Not For Profit</li>
-    <li class="sectors-list-item" style="margin-bottom: 0;">Education</li>
-  </ul>
-</div>
+                        <div class="sectors-list-wrapper">
+                          <ul class="sectors-list">
+                            <li class="sectors-list-item">Transport, Aviation & Marine</li>
+                            <li class="sectors-list-item">Construction & Materials</li>
+                            <li class="sectors-list-item">Leisure & Gaming</li>
+                            <li class="sectors-list-item">Energy, Utilities & Natural Resources</li>
+                            <li class="sectors-list-item">Technology</li>
+                            <li class="sectors-list-item">Media & Telecoms</li>
+                            <li class="sectors-list-item">Life Science</li>
+                            <li class="sectors-list-item" style="margin-bottom: 0">Agri Business</li>
+                          </ul>
+                          <ul class="sectors-list" style="border-left: 1px solid #fff;">
+                            <li class="sectors-list-item">Food & Drinks</li>
+                            <li class="sectors-list-item">Retail & FMCG</li>
+                            <li class="sectors-list-item">Banking & Financial Services</li>
+                            <li class="sectors-list-item">Professional Sevices& Legal</li>
+                            <li class="sectors-list-item">Finance & Accounting</li>
+                            <li class="sectors-list-item">Public Sector</li>
+                            <li class="sectors-list-item">Not For Profit</li>
+                            <li class="sectors-list-item" style="margin-bottom: 0;">Education</li>
+                          </ul>
+                        </div>
                     </div>
 
                     <div class="row">

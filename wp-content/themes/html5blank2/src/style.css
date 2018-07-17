@@ -105,7 +105,7 @@ span, a, a:hover {
       content: '';
       width: 1px;
       height: 35px;
-      background: #312884;
+      background: #fff;
       position: absolute;
       left: -1px;
       bottom: 0; }
@@ -478,6 +478,22 @@ span, a, a:hover {
   background : url("/lansdowne/wp-content/themes/html5blank2/images/group-shot.jpg") left center / cover no-repeat;
 }
 
+/* .services-image-1 {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/services-image-1.jpg") left center / cover no-repeat;
+}
+
+.services-image-2 {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/services-image-2.jpg") left center / cover no-repeat;
+}
+
+.services-image-3 {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/services-image-3.jpg") left center / cover no-repeat;
+}
+
+.services-image-4 {
+  background : url("/lansdowne/wp-content/themes/html5blank2/images/services-image-4.jpg") left center / cover no-repeat;
+} */
+
 .hero-h2 {
   font-weight: 200;
   margin-bottom: 25px; }
@@ -700,7 +716,7 @@ span, a, a:hover {
       content: '';
       width: 1px;
       height: 100%;
-      background: #312884;
+      background: #fff;
       position: absolute;
       right: 1px;
       top: 0;
@@ -1455,7 +1471,7 @@ div.wpcf7 {
   width: 100%;
   top: 0;
   left: 0;
-  background-image: url("img/slider1.jpg");
+  /* background-image: url("img/slider1.jpg"); */
   background-size: cover;
   animation: scale 15s ease-in-out infinite alternate;
   -webkit-animation: scale 15s ease-in-out infinite alternate; }
@@ -1485,7 +1501,7 @@ div.wpcf7 {
   font-size: 1.8rem;
   font-weight: bold;
   margin-bottom: 0;
-  padding-left: 1.7em;
+  padding-left: 1.75em;
   width: 50%;
 }
 

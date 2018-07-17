@@ -4,10 +4,10 @@
         <!-- =====================================
         ==== Start Services Tabs -->
 
-       
-        
+
+
         <?php
-        $services = get_field('services_images', 'options');	
+        $services = get_field('services_images', 'options');
         if( $services ): ?>
              <div id="hiddenContent">
                 <span id="image_1"><?php echo $services['image_1'] ?></span>
@@ -16,7 +16,7 @@
                 <span id="image_4"><?php echo $services['image_4'] ?></span>
 
             </div>
-            <?php 
+            <?php
                $executive_search_left_text = $services['executive_search_left_text'];
                $executive_search_right_text = $services['executive_search_right_text'];
                $interim_management_right_text = $services['interim_management_right_text'];
@@ -25,20 +25,20 @@
                $executive_coaching_right_text = $services['executive_coaching_right_text'];
                $organisational_consulting_left_text = $services['organisational_consulting_left_text'];
                $organisational_consulting_right_text = $services['organisational_consulting_right_text'];
-               
-        endif; ?>     
+
+        endif; ?>
 
 
-        
+
 
         <section class="serv-tabs section-padding bg-img" id="Services" data-overlay-dark="0" style="background-image : url(<?php echo $services['image_1'] ?>)" data-scroll-index="2">
             <div class="container">
                 <div class="row">
-                    
+
                      <div class="section-head col-sm-12">
                         <h4>
                             <span>Our</span><br>
-                            Services 
+                            Services
                         </h4>
                     </div>
 
@@ -136,7 +136,7 @@
                                     <h6>Organisational Consulting</h6>
                                 </div>
                             </div>
-            
+
                         </div>
                     </div>
                 </div>
@@ -155,11 +155,12 @@
                 const y = i;
                 $( "#tab-" + i ).click(function() {
                     var backgroundImage = $("#image_" + y).html();
+                    console.log(backgroundImage);
                     $("#Services").css({"background-image": "url('" + backgroundImage + "')"});
                     console.log('clicked on tab-' + y);
                 });
             }
-        }
+        };
 
         $( document ).ready(function() {
             TabSelector();
