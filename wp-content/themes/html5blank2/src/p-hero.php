@@ -12,7 +12,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="container">
+                    <div class="container" style="padding-top: 100px;">
                       <?php get_template_part( 'p-team' ) ?>
                     </div>
 

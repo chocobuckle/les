@@ -460,6 +460,7 @@ span, a, a:hover {
 
 .city-image {
   background : url("/lansdowne/wp-content/themes/html5blank2/images/city.jpg") left center / cover no-repeat;
+  padding-top: 100px;
   width: 100%;
 }
 
