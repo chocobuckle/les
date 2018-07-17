@@ -42,9 +42,8 @@
                                                   $vcard = get_sub_field('vcard', 'option');
                                                   ?>
                                                   <a href="<?php echo $linkedin ?>"><i style="font-size: 24px;" class="icofont icofont-brand-linkedin"></i></a>
-                                                  <a href="mailto:<?php echo $email ?>"><i style="font-size: 24px;" class="icofont icofont-email"></i> </a>
-                                                  <a href="tel:<?php echo $email ?>"><i style="font-size: 24px;" class="icofont icofont-phone"></i> </a>
-
+                                                  <a href="tel:<?php echo $telephone ?>">T: <?php echo $telephone ?></a>
+                                                  <!-- <a href="mailto:<?php echo $email ?>"><i style="font-size: 24px;" class="icofont icofont-email"></i> </a> -->
                                               <?php endwhile;
                                                   else :
                                                       // no rows found
