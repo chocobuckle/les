@@ -18,26 +18,26 @@
                         </h4>
                         <p style="color: #fff; text-align: center; margin-bottom: 3em;">Lansdowne Executive Search delivers a range of Executive Search and Interim Management
 solutions, in addition to tailored Executive Coaching and Organisational Consulting services.</p>
-<div style="display: flex; border-left: 1px solid #fff; border-right: 1px solid #fff;">
-  <ul style="color: #fff; font-size: 1.8rem; font-weight: bold; margin-bottom: 0; width: 50%; padding-left: 1em;">
-    <li style="margin-bottom: 1em;">Transport, Aviation & Marine</li>
-    <li style="margin-bottom: 1em;">Construction & Materials</li>
-    <li style="margin-bottom: 1em;">Leisure & Gaming</li>
-    <li style="margin-bottom: 1em;">Energy, Utilities & Natural Resources</li>
-    <li style="margin-bottom: 1em;">Technology</li>
-    <li style="margin-bottom: 1em;">Media & Telecoms</li>
-    <li style="margin-bottom: 1em;">Life Science</li>
-    <li style="margin-bottom: 0">Agri Business</li>
+<div class="sectors-list-wrapper">
+  <ul class="sectors-list">
+    <li class="sectors-list-item">Transport, Aviation & Marine</li>
+    <li class="sectors-list-item">Construction & Materials</li>
+    <li class="sectors-list-item">Leisure & Gaming</li>
+    <li class="sectors-list-item">Energy, Utilities & Natural Resources</li>
+    <li class="sectors-list-item">Technology</li>
+    <li class="sectors-list-item">Media & Telecoms</li>
+    <li class="sectors-list-item">Life Science</li>
+    <li class="sectors-list-item" style="margin-bottom: 0">Agri Business</li>
   </ul>
-  <ul style="color: #fff; font-size: 1.8rem; font-weight: bold; margin-bottom: 0; width: 50%; padding-left: 1em; border-left: 1px solid #fff;">
-    <li style="margin-bottom: 1em;">Food & Drinks</li>
-    <li style="margin-bottom: 1em;">Retail & FMCG</li>
-    <li style="margin-bottom: 1em;">Banking & Financial Services</li>
-    <li style="margin-bottom: 1em;">Professional Sevices& Legal</li>
-    <li style="margin-bottom: 1em;">Finance & Accounting</li>
-    <li style="margin-bottom: 1em;">Public Sector</li>
-    <li style="margin-bottom: 1em;">Not For Profit</li>
-    <li style="margin-bottom: 0;">Education</li>
+  <ul class="sectors-list" style="border-left: 1px solid #fff;">
+    <li class="sectors-list-item">Food & Drinks</li>
+    <li class="sectors-list-item">Retail & FMCG</li>
+    <li class="sectors-list-item">Banking & Financial Services</li>
+    <li class="sectors-list-item">Professional Sevices& Legal</li>
+    <li class="sectors-list-item">Finance & Accounting</li>
+    <li class="sectors-list-item">Public Sector</li>
+    <li class="sectors-list-item">Not For Profit</li>
+    <li class="sectors-list-item" style="margin-bottom: 0;">Education</li>
   </ul>
 </div>
                     </div>
